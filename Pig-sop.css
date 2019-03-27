@@ -61,7 +61,7 @@ body{
     width: 210px;
     height: 30px;
     color: #bcbeb0;
-    /* border: 1px solid black; */
+    border: 0;
     
 }
 .header .search .tijiao{
@@ -73,8 +73,8 @@ body{
     height: 30px;
     font-size: 14px;
     font-weight: 500;
-    color: #5b5b5b;
-    /* border: 1px solid black; */
+    color: #bcbeb0;
+    border: 0;
 
 }
 .header .search .tool{
