@@ -8,6 +8,18 @@ body{
     height: 100%;
     background-color: #fff;
     display: block;
+    position: relative;
+}
+.tel{
+    position: fixed;
+    display: inline-block;
+    margin-left: 363px;
+    margin-top: 650px;
+    height: 30px;
+    width: 30px;
+}
+.tel img{
+    height: 100%
 }
 .logo{
     width: 414px;
@@ -62,7 +74,7 @@ body{
     height: 30px;
     color: #bcbeb0;
     border: 0;
-    
+    font-size: 14px;
 }
 .header .search .tijiao{
     position: absolute;
@@ -75,7 +87,7 @@ body{
     font-weight: 500;
     color: #bcbeb0;
     border: 0;
-
+    background-color: rgba(255,255,255,0); 
 }
 .header .search .tool{
     position: absolute;
