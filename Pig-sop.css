@@ -25,6 +25,10 @@ body{
     width: 414px;
     height: 30px;
     /* border: 1px solid black; */
+    overflow: hidden;
+}
+.logo img{
+    height: 100%;
 }
 .header{
     width: 378px;
@@ -262,5 +266,14 @@ body{
     font-size: .42rem;
     color: #bcbeb0;
     font-family: arial;
+}
+.bdy .content-text .text-right{
+    width: 371px;
+}
+.bdy .content-text .text-right .tit{
+    width: 371px;
+}
+.bdy .content-text .text-right .mid{
+    width: 371px;
 }
 
